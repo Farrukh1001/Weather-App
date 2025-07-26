@@ -1,1 +1,1 @@
-# Weather-App-2
+# Weather-App made with html, CSS, Javascript
